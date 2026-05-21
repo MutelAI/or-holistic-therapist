@@ -30,7 +30,6 @@
     "cache_key": "wAhCzRF4iY9xpvC36",
     "logo_url": "/images/logo.webp"
   },
-  "editToken": "63cadaba50c875b928ba8905005c400c",
   "hours": [
     {
       "day_key": "sunday",
@@ -89,7 +88,13 @@
       "is_open": false
     }
   ],
-  "design": {},
+  "design": {
+    "color_primary": "indigo",
+    "color_secondary": "sky",
+    "hero_gradient": "from-slate-950 via-indigo-950 to-slate-900",
+    "contact_gradient": "from-slate-950 to-indigo-900",
+    "section_dark_bg": "#020617"
+  },
   "sections": [
     {
       "id": "hero",
