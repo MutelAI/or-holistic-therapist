@@ -1,0 +1,11 @@
+{
+  "primary_color": "emerald",
+  "secondary_color": "teal",
+  "hero_gradient": "from-emerald-900 via-teal-900 to-emerald-950",
+  "contact_gradient": "from-teal-800 via-emerald-800 to-teal-900",
+  "font_heading": "Cormorant Garamond",
+  "font_body": "Nunito Sans",
+  "font_google_import": "Cormorant+Garamond:wght@600;700&family=Nunito+Sans:wght@400;600",
+  "brand_personality": "calm expertise",
+  "logo_emoji": "HeartPulse"
+}
